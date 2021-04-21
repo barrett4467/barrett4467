@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @barrett4467 Rebecca Barrett 
+- 👀 I’m interested in Front-End Development and Offline first techniques. 
+- 🌱 I’m currently solidifying my knowledge on HTML and JS  
+- 📫 How to reach me via email barrett4467@gmail.com 
